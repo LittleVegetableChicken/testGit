@@ -5,3 +5,4 @@ Git tracks changes
 my boss is foolish.
 test branch.
 written by master.
+written by feature.

@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes
 my boss is foolish.
 test branch.
+written by feature.
